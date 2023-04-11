@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "topic": "MONTH1"
+  },
+  {
+    "id": 2,
+    "topic": "Onboarding Call"
+  },
+  {
+    "id": 3,
+    "topic": "Google Analytics access"
+  },
+  {
+    "id": 4,
+    "topic": "Website Access"
+  },
+  {
+    "id": 5,
+    "topic": "Technical Audit"
+  },
+  {
+    "id": 6,
+    "topic": "Anchor Text/URL Mapping"
+  },
+  {
+    "id": 7,
+    "topic": "Google Data Studio Report + Local Reporting Suite"
+  },
+  {
+    "id": 8,
+    "topic": "Site Level Optimization"
+  },
+
+  {
+    "id": 9,
+    "topic": "On Page OPtimization"
+  },
+  {
+    "id": 10,
+    "topic": "Content Creation"
+  },
+  {
+    "id": 11,
+    "topic": "Premium Press Release"
+  },
+  {
+    "id": 12,
+    "topic": "Authority Niche Placements"
+  },
+
+  {
+    "id": 13,
+    "topic": "Index Links"
+  },
+  {
+    "id": 14,
+    "topic": "Video Recap"
+  }
+]
